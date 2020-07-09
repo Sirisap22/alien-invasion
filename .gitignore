@@ -3,6 +3,7 @@
 *.pyc
 /build/
 /src_py/version.py
+src/
 
 # Windows prebuilt external libraries
 /prebuilt-x??
